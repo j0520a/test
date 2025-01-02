@@ -1,0 +1,27 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    background: tan;
+    box-sizing: border-box;
+}
+
+h1 {
+    background: beige;
+}
+
+#one {
+    background: lightblue;
+}
+
+#two {
+    background: azure;
+}
+
+#three {
+    background: lightskyblue;
+}
